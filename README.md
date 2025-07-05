@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Ahmed Khan</h1>
-<p align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel</p>
+<p align="center"> Data Analyst | Python • SQL • Power BI • Excel</p>
 
 <p align="center">
   <a href="https://github.com/amannn08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
