@@ -61,20 +61,7 @@ I'm a final-year Computer Science student and a passionate Data Analyst Intern w
 - Improved team evaluation efficiency by 30%.
 
 ---
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amannn08&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannn08&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amannn08&theme=tokyonight" />
-</p>
-
----
 
 
 
