@@ -8,9 +8,8 @@
 </p>
 
 ---
-
 ## 🚀 About Me
-I'm a final-year Computer Science student and a passionate Data Analyst Intern with hands-on experience in data analysis, visualization, and reporting. I specialize in uncovering insights from large datasets and delivering impactful dashboards.
+I'm a Computer Science graduate with a strong passion for Data Analytics. I have hands-on experience in data analysis, visualization, and reporting, with a focus on uncovering meaningful insights from large datasets and delivering impactful dashboards that support data-driven decisions.
 
 ---
 
@@ -41,10 +40,9 @@ I'm a final-year Computer Science student and a passionate Data Analyst Intern w
 - Built 5+ custom dashboards with cross-functional teams to support executive decision-making.
 
 ---
-
 ## 📊 Projects
 
-### 🛍️ [Retail-Sales-Insights](https://github.com/amannn08/Diwali-Sales-Insights-Using-Python)
+### 🛍️ [Retail-Sales-Insights](https://github.com/amannn08/Diwali-Sales-Insights-Using-Python)  
 > Tech Stack: Python, Pandas, Seaborn, Matplotlib, SQL
 
 - Analyzed 10K+ Diwali sales records, uncovering patterns in purchase behavior.
@@ -53,7 +51,7 @@ I'm a final-year Computer Science student and a passionate Data Analyst Intern w
 
 ---
 
-### 🏏 [Cricket Analytics: Dream XI](https://github.com/amannn08/DREAM-11-TEAM)
+### 🏏 [Cricket Analytics: Dream XI](https://github.com/amannn08/DREAM-11-TEAM)  
 > Tech Stack: Power BI, Power Query, Pandas, SQL
 
 - Selected optimal team from 500+ T20 World Cup 2022 match records.
@@ -62,6 +60,32 @@ I'm a final-year Computer Science student and a passionate Data Analyst Intern w
 
 ---
 
+### 📉 [Customer Churn Analysis](https://github.com/amannn08/Customer-Churn-EDA)
+> Tech Stack: Python, Pandas, Seaborn, Matplotlib
+
+- Performed EDA on telecom data to uncover churn patterns.
+- Found that customers with monthly contracts and no tech support churned most.
+- Visualized key churn factors using countplots and log-scaled insights.
+
+---
+
+### 📈 [Data Analytics Report (Excel Dashboards)](https://github.com/amannn08/Data-Analytics-Report)
+> Tech Stack: Excel, Pivot Tables, Charts, Slicers
+
+- Created interactive dashboards across 7 diverse datasets.
+- Analyzed domains like sales, loans, cars, cookies, and stores for insights.
+- Helped visualize trends and improve operational understanding.
+
+---
+
+### 🧠 [Customer Segmentation with Market Basket Analysis](https://github.com/amannn08/Customer-Segmentation-MBA)
+> Tech Stack: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+- Clustered customers using K-Means and Hierarchical Clustering.
+- Performed Market Basket Analysis using Apriori algorithm.
+- Delivered insights on customer groups and frequently bought items.
+
+---
 
 
 
@@ -77,4 +101,4 @@ I'm a final-year Computer Science student and a passionate Data Analyst Intern w
 
 - ✉️ Email: [iamaman.230230@gmail.com](mailto:iamaman.230230@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/amanahmedkhan](https://linkedin.com/in/amanahmedkhan)  
-- 📂 Portfolio: Coming soon...
+- 📂 Portfolio: [Portfolio](https://portfolio-new-lyc6.vercel.app/)
