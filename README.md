@@ -108,4 +108,4 @@ I'm a Computer Science graduate with a strong passion for Data Analytics. I have
 
 - ✉️ Email: [iamaman.230230@gmail.com](mailto:iamaman.230230@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/amanahmedkhan](https://linkedin.com/in/amanahmedkhan)  
-- 📂 Portfolio: [Portfolio](https://portfolio-new-lyc6.vercel.app/)
+- 📂 Portfolio: [Portfolio](https://amanportfolio-ecru.vercel.app/)
